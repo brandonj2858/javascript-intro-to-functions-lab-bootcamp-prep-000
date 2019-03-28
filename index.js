@@ -15,6 +15,6 @@ if(string===string.toLowerCase())
 {return "I can\'t hear you!"}
 else if(string===string.toUpperCase())
 {return "YES INDEED!"}
-iftring==="I love u,Grandma")
+if(string==="I love u,Grandma")
 {return "I love you, too."}
 }
